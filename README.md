@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Frontend and Backend developer from Vietnam
 --------------------------------------------------------
 
-I am a passionate Frontend and Backend programmer with a strong focus on creating efficient and innovative solutions. I specialize in JavaScript (including React library, NodeJS, NestJS, NextJS) and ASP.NET.
+I am a passionate Software Developer with a strong focus on creating efficient and innovative solutions. I specialize in JavaScript (including React library, NodeJS, NestJS, NextJS) and ASP.NET.
 
 * 🖥️  See my portfolio at [MyPortfolio](https://danisolation-portfolio.vercel.app/)
 * ✉️  You can contact me at [tranquocdungb4@gmail.com](mailto:tranquocdungb4@gmail.com)
