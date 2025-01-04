@@ -8,7 +8,7 @@ I am a passionate Software Developer with a strong focus on creating efficient a
 
 * 🖥️  See my portfolio at [MyPortfolio](https://danisolation-portfolio.vercel.app/)
 * ✉️  You can contact me at [tranquocdungb4@gmail.com](mailto:tranquocdungb4@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning Redux
 
 ### Skills
 
