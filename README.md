@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is
 Trần Quốc Dũng
 ======================================================================================================================================
-A passionate Software Developer from Vietnam -------------------------------------------------------- I am a passionate
-Software Developer with a strong focus on creating efficient and innovative solutions. I specialize in JavaScript
-(including React library, NodeJS, NestJS, NextJS) and ASP.NET. * 🖥️  See my portfolio at
-[MyPortfolio](https://danisolation-portfolio.vercel.app/) * ✉️  You can contact me at
-[tranquocdungb4@gmail.com](mailto:tranquocdungb4@gmail.com) * 🧠  I'm learning Redux ### Skills
+A passionate Software Developer from Vietnam -------------------------------------------------------- 
+I am a passionate Software Developer with a strong focus on creating efficient and innovative solutions. I specialize in JavaScript
+(including React library, NodeJS, NestJS, NextJS) and ASP.NET. 
+* 🖥️  See my portfolio at [MyPortfolio](https://danisolation-portfolio.vercel.app/)
+* ✉️  You can contact me at [tranquocdungb4@gmail.com](mailto:tranquocdungb4@gmail.com)
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
