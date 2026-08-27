@@ -5,8 +5,8 @@ A passionate Software Developer from Vietnam
 
 -------------------------------------------------------- 
 
-I am a passionate Software Developer with a strong focus on creating efficient and innovative solutions. I specialize in JavaScript
-(including React library, NodeJS, NestJS, NextJS) and ASP.NET. 
+I am a passionate Software Developer with a strong focus on creating efficient and innovative solutions. I specialize in TypeScript
+(including React library, NodeJS, NestJS, NextJS). 
 
 * 🖥️  See my portfolio at [MyPortfolio](https://danisolation-portfolio.vercel.app/)
 
