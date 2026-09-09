@@ -53,7 +53,6 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=danisolation&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Danisolation's GitHub Stats" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=danisolation&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
