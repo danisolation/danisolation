@@ -1,187 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is
-Trần Quốc Dũng
-======================================================================================================================================
-A passionate Software Developer from Vietnam 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Trần%20Quốc%20Dũng&fontSize=42&fontAlignY=38&desc=Front-end%20Software%20Developer%20from%20Vietnam&descFontSize=18&descAlignY=62" width="100%" />
 
--------------------------------------------------------- 
+  <a href="https://danisolation-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-danisolation--portfolio.vercel.app-black?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:tranquocdungb4@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-tranquocdungb4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/trần-quốc-dũng-5317a1277">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009386028893">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
-I am a passionate Software Developer with a strong focus on creating efficient and innovative solutions. I specialize in TypeScript
-(including React library, NodeJS, NestJS, NextJS). 
+<br/>
 
-* 🖥️  See my portfolio at [MyPortfolio](https://danisolation-portfolio.vercel.app/)
+### 👨‍💻 About Me
 
-* ✉️  You can contact me at [tranquocdungb4@gmail.com](mailto:tranquocdungb4@gmail.com)
+- 🚀 Passionate **Front-end Software Developer** based in Vietnam.
+- 💡 Focused on crafting high-performance web applications and scalable system architectures.
+- 🎯 Core expertise: **TypeScript**, **React**, **Next.js**.
+- 🖥️ Check out my projects and work at [danisolation-portfolio.vercel.app](https://danisolation-portfolio.vercel.app/).
+- 📫 Reach me directly at [tranquocdungb4@gmail.com](mailto:tranquocdungb4@gmail.com).
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Frontend Development**
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-            width="36"
-            height="36"
-            alt="JavaScript" /></a
-    ><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-            width="36"
-            height="36"
-            alt="TypeScript" /></a
-    ><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-            width="36"
-            height="36"
-            alt="VS Code" /></a
-    ><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-            width="36"
-            height="36"
-            alt="HTML5" /></a
-    ><a href="https://reactjs.org/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-            width="36"
-            height="36"
-            alt="React" /></a
-    ><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
-            width="36"
-            height="36"
-            alt="NextJs" /></a
-    ><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-            width="36"
-            height="36"
-            alt="CSS3" /></a
-    ><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-            width="36"
-            height="36"
-            alt="Sass" /></a
-    ><a href="https://mui.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-            width="36"
-            height="36"
-            alt="Material UI" /></a
-    ><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-            width="36"
-            height="36"
-            alt="NodeJS" /></a
-    ><a href="https://expressjs.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-            width="36"
-            height="36"
-            alt="Express" /></a
-    ><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg"
-            width="36"
-            height="36"
-            alt="NestJS" /></a
-    ><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-            width="36"
-            height="36"
-            alt="MongoDB" /></a
-    ><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-            width="36"
-            height="36"
-            alt="MySQL" /></a
-    ><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-            width="36"
-            height="36"
-            alt="PostgreSQL" /></a
-    ><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
-            width="36"
-            height="36"
-            alt="Firebase" /></a
-    ><a href="https://ipfs.io/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg"
-            width="36"
-            height="36"
-            alt="IPFS" /></a
-    >
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </p>
 
-### Socials
-
+#### **Tools & Environment**
 <p align="left">
-    <a href="https://www.facebook.com/profile.php?id=100009386028893" target="_blank" rel="noreferrer">
-        <picture>
-            <source
-                media="(prefers-color-scheme: dark)"
-                srcset="
-                    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg
-                "
-            />
-            <source
-                media="(prefers-color-scheme: light)"
-                srcset="
-                    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg
-                "
-            />
-            <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-                width="32"
-                height="32"
-            />
-        </picture>
-    </a>
-    <a href="https://www.github.com/danisolation" target="_blank" rel="noreferrer">
-        <picture>
-            <source
-                media="(prefers-color-scheme: dark)"
-                srcset="
-                    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-                "
-            />
-            <source
-                media="(prefers-color-scheme: light)"
-                srcset="
-                    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-                "
-            />
-            <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-                width="32"
-                height="32"
-            />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/trần-quốc-dũng-5317a1277" target="_blank" rel="noreferrer">
-        <picture>
-            <source
-                media="(prefers-color-scheme: dark)"
-                srcset="
-                    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
-                "
-            />
-            <source
-                media="(prefers-color-scheme: light)"
-                srcset="
-                    https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
-                "
-            />
-            <img
-                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-                width="32"
-                height="32"
-            />
-        </picture>
-    </a>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danisolation&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Danisolation's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danisolation&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danisolation&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center
